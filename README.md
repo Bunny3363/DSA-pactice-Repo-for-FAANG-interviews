@@ -2,4 +2,4 @@
 Practice of general DSA coding interview questions for FAANG
 
 Course : - Ineuron
-Instructor : - Priya
+Instructor : - Priya Bhatia
